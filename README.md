@@ -1,4 +1,4 @@
-# AtCoder
+# AtCoder_Programs
 
 ## 目的
 
